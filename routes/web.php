@@ -6,6 +6,7 @@ use App\Http\Controllers\SessionController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/',[JobController::class,'index']);
+Route::get('/search',SearchController::class);
 
 Route::middleware('guest')->group(function(){
     Route::get('/register',[RegisterUserController::class,'create']);
