@@ -12,7 +12,7 @@
     </div>
     <div>
         @foreach($job->tags as $tag)
-            <x-tag :$tag />
+            <x-tag :$tag/>
         @endforeach
     </div>
 </x-panel>

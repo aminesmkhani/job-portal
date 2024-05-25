@@ -40,7 +40,7 @@
         @endauth
 
 
-    @guest
+        @guest
             <div class="space-x-6 font-bold">
                 <a href="/register">Sign Up</a>
                 <a href="/login">Login</a>
