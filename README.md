@@ -23,7 +23,7 @@ The Job Portal Project is a web application built using Laravel, designed to con
 ![Job Search](https://github.com/aminesmkhani/job-portal/blob/main/resources/images/search.png?raw=true)
 
 ### Register
-![Register](https://github.com/aminesmkhani/job-portal/blob/main/resources/images/search.png?raw=true)
+![Register](https://github.com/aminesmkhani/job-portal/blob/main/resources/images/3.png?raw==true)
 
 ## Installation
 
